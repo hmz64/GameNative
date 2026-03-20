@@ -135,3 +135,6 @@ object NetworkConfig {
 | Android | Kotlin, MVVM, ViewBinding |
 | Networking | Retrofit2, OkHttp3, Socket.IO Client |
 | Real-time | WebSocket via Socket.IO |
+
+## License
+MIT
