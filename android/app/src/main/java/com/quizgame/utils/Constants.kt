@@ -3,7 +3,7 @@ package com.quizgame.utils
 object NetworkConfig {
     // For Android Emulator: use 10.0.2.2 to access host machine's localhost
     // For physical device: use your computer's local IP address (e.g., 192.168.1.x)
-    var BASE_URL = "http://192.168.1.5:3000"
+    var BASE_URL = "http://0.0.0.0:3000"
 }
 
 object GameConstants {
